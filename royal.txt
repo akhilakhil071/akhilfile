@@ -1,1 +1,5 @@
 > git commit -m "akhilroyal"
+
+ Auto-fit columns for better visibility
+    ws.Columns("A:D").AutoFit
+
